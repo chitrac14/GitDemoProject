@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="25440" started-at="2020-03-28T15:35:59 IST" finished-at="2020-03-28T15:36:24 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="25440" started-at="2020-03-28T15:35:59 IST" finished-at="2020-03-28T15:36:24 IST">
+      <class name="mavenPackage.AmazonDeliverToTest">
+        <test-method status="PASS" signature="deliverTo()[pri:0, instance:mavenPackage.AmazonDeliverToTest@55d56113]" name="deliverTo" duration-ms="25388" started-at="2020-03-28T15:35:59 IST" finished-at="2020-03-28T15:36:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deliverTo -->
+      </class> <!-- mavenPackage.AmazonDeliverToTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
