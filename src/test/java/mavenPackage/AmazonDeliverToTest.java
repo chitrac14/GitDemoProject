@@ -28,6 +28,8 @@ public class AmazonDeliverToTest {
 	amazonDefaultPage.EnterZipCode();
 	
 	amazonDefaultPage.clickOnApply();
+System.out.println("Test to check the commit changes");
+	
 	driver.close();
   }
 }
