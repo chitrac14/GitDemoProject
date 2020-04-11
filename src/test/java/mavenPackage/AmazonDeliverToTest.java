@@ -29,6 +29,7 @@ public class AmazonDeliverToTest {
 	
 	amazonDefaultPage.clickOnApply();
 System.out.println("Test to check the commit changes");
+System.out.println("Test to check the Branch concept");
 	
 	driver.close();
   }
